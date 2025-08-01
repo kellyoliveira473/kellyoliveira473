@@ -1,8 +1,9 @@
 # Eu sou a Kelly Oliveira! 👋☕️✨
 
 
-Estudo Java 🚀💻, focada em código limpo 🧹💡 e eficiente.  
-Compartilho projetos 📂🛠️, desafios de lógica 🧩🤓 e minha evolução diária 📈🌟.  
+ 👨🏼‍🎓Estudante de Analise e Desenvolvimento de Sistemas 
+ 👨🏼‍🎓Técnico em Desenvolvimento de Sistemas 
+🥰 Apaixonada por Tecnologia
 ---
    </a> 
     <a href="https://github.com/kellyoliveira473?tab=repositories&sort=stargazers">
