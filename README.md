@@ -1,7 +1,7 @@
 # Eu sou a Kelly Oliveira! 👋☕️✨
 
 
- 👨🏼‍🎓Estudante de Analise e Desenvolvimento de Sistemas 
+ 👨🏼‍🎓Estudante de Engenharia de Software
  👨🏼‍🎓Técnico em Desenvolvimento de Sistemas 
 🥰 Apaixonada por Tecnologia
 ---
