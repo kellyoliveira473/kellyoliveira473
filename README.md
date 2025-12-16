@@ -31,7 +31,7 @@
 <img align="left" alt="Html" width ="60" style= "padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img aligin="left" alt="Css" width="60" style="padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
 <img aligin="left" alt="Javascript" width="60" style="padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img aligin="left"  alt="Docker" wiidth="60" style="padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
           
           
 
