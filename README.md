@@ -28,9 +28,25 @@
 
 <img align="left" alt="Java" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width ="60" style ="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img aligin="left" alt="Javascript" width="60" style="padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
 <img align="left" alt="Html" width ="60" style= "padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img aligin="left" alt="Css" width="60" style="padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> 
-<img aligin="left" alt="Javascript" width="60" style="padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Html" width ="60" style= "padding-rigth:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+      
+  <img  align="left" alt="Html" width ="60" style= "padding-rigth:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+   <img  align="left" alt="Html" width ="60" style= "padding-rigth:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />     
+   <img  align="left" alt="Html" width ="60" style= "padding-rigth:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+   <img align="left" alt="Html" width ="60" style= "padding-rigth:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+   <img align="left" alt="Html" width ="60" style= "padding-rigth:20px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
+          
+          
+          
+          
+          
+
 
           
           
